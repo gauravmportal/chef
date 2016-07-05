@@ -1,0 +1,3 @@
+echo "hi gaurav..you are using git today'
+echo `date`
+echo "======="
